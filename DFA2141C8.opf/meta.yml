@@ -1,0 +1,22 @@
+id: DFA2141C8
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:47:41+00:00'
+last_modified: '2022-05-29T08:18:41.897237+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    997d:
+      image_group_id: I1PD95920
+      title: རྣམ་བཤད་བསྡུ་བ།
+      total_pages: 1529
+      order: 75
+      base_file: 997d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
